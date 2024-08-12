@@ -1,5 +1,4 @@
 # HOW TO JOIN KEBAB SMP
-The great Ligma SMP. A dedicated modded Fabric server with custom worldgen and way harder difficulty to spice up the Minecraft experience. Beginners might find it difficult to play in the server so it is recommended to play with someone experienced while on the server!
 
 ## REQUIREMENTS
 - Fabric 1.20.1
